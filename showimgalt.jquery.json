@@ -2,7 +2,7 @@
   "name": "showimgalt",
   "title": "jQuery Img Alt Appender",
   "description": "jQuery plugin to show alt attribute in img elements by inserting text after the img.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/kssfilo/jquery.showimgalt",
   "author": {
     "name": "kssfilo",

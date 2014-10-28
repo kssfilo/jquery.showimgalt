@@ -1,7 +1,5 @@
 #jquery.showimgalt
 
-##About
-
 jQuery plugin to show alt attribute in img elements by inserting text after the img.
 
 ##Download
